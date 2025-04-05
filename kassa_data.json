@@ -1,0 +1,55 @@
+{
+    "users": [
+        {
+            "username": "superadmin",
+            "password": "admin123",
+            "is_admin": true,
+            "is_superadmin": true
+        },
+        {
+            "username": "admin1",
+            "password": "admin1234",
+            "is_admin": false,
+            "is_superadmin": false
+        },
+        {
+            "username": "Javohir",
+            "password": "2047",
+            "is_admin": true,
+            "is_superadmin": true
+        },
+        {
+            "username": "Badr",
+            "password": "2024",
+            "is_admin": true,
+            "is_superadmin": false
+        },
+        {
+            "username": "Behruz",
+            "password": "1122",
+            "is_admin": true,
+            "is_superadmin": false
+        }
+    ],
+    "cash_flows": [
+        {
+            "user": "Javohir",
+            "amount": 20000.0,
+            "flow_type": "Kirim",
+            "description": "Biringchi ishlab topgan pulim"
+        },
+        {
+            "user": "admin1",
+            "amount": 800000.0,
+            "flow_type": "Kirim",
+            "description": "To'lov"
+        },
+        {
+            "user": "admin1",
+            "amount": 220000.0,
+            "flow_type": "Chiqim",
+            "description": "Kamazchilarga"
+        }
+    ],
+    "balance": 600000.0
+}
