@@ -49,7 +49,14 @@
             "amount": 220000.0,
             "flow_type": "Chiqim",
             "description": "Kamazchilarga"
+        },
+        {
+            "user": "Javohir",
+            "amount": 200000.0,
+            "flow_type": "Kirim",
+            "description": "Malikaga telefonimni sotdim",
+            "date": "2025-04-06 12:34:00"
         }
     ],
-    "balance": 600000.0
+    "balance": 800000.0
 }
