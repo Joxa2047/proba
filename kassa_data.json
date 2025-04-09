@@ -70,7 +70,14 @@
             "flow_type": "Kirim",
             "description": "Uyga to'lov 3/118",
             "date": "2025-04-08 22:21:55"
+        },
+        {
+            "user": "admin1",
+            "amount": 455000.0,
+            "flow_type": "Kirim",
+            "description": "",
+            "date": "2025-04-09 12:53:36"
         }
     ],
-    "balance": 2600000.0
+    "balance": 3055000.0
 }
