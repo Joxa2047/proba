@@ -77,7 +77,14 @@
             "flow_type": "Kirim",
             "description": "",
             "date": "2025-04-09 12:53:36"
+        },
+        {
+            "user": "Javohir",
+            "amount": 1000000.0,
+            "flow_type": "Chiqim",
+            "description": "a",
+            "date": "2025-04-11 12:18:12"
         }
     ],
-    "balance": 3055000.0
+    "balance": 2055000.0
 }
