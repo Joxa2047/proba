@@ -31,60 +31,6 @@
             "is_superadmin": false
         }
     ],
-    "cash_flows": [
-        {
-            "user": "Javohir",
-            "amount": 20000.0,
-            "flow_type": "Kirim",
-            "description": "Biringchi ishlab topgan pulim"
-        },
-        {
-            "user": "admin1",
-            "amount": 800000.0,
-            "flow_type": "Kirim",
-            "description": "To'lov"
-        },
-        {
-            "user": "admin1",
-            "amount": 220000.0,
-            "flow_type": "Chiqim",
-            "description": "Kamazchilarga"
-        },
-        {
-            "user": "Javohir",
-            "amount": 200000.0,
-            "flow_type": "Kirim",
-            "description": "Malikaga telefonimni sotdim",
-            "date": "2025-04-06 12:34:00"
-        },
-        {
-            "user": "Javohir",
-            "amount": 200000.0,
-            "flow_type": "Chiqim",
-            "description": "Kamomat",
-            "date": "2025-04-07 09:09:47"
-        },
-        {
-            "user": "Javohir",
-            "amount": 2000000.0,
-            "flow_type": "Kirim",
-            "description": "Uyga to'lov 3/118",
-            "date": "2025-04-08 22:21:55"
-        },
-        {
-            "user": "admin1",
-            "amount": 455000.0,
-            "flow_type": "Kirim",
-            "description": "",
-            "date": "2025-04-09 12:53:36"
-        },
-        {
-            "user": "Javohir",
-            "amount": 1000000.0,
-            "flow_type": "Chiqim",
-            "description": "a",
-            "date": "2025-04-11 12:18:12"
-        }
-    ],
+    "cash_flows":[],
     "balance": 2055000.0
 }
