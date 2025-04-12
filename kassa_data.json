@@ -31,6 +31,14 @@
             "is_superadmin": false
         }
     ],
-    "cash_flows":[],
-    "balance": 0
+    "cash_flows": [
+        {
+            "user": "Behruz",
+            "amount": 20000.0,
+            "flow_type": "Kirim",
+            "description": "Yerdan topvoldim",
+            "date": "2025-04-12 12:42:28"
+        }
+    ],
+    "balance": 20000.0
 }
