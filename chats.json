@@ -45,8 +45,18 @@
         "message": "haa men",
         "timestamp": "2025-04-26T23:27:55.975Z",
         "read": false
+      },
+      {
+        "id": "fd72bea2-202c-4552-8495-416c4d58d204",
+        "senderId": "admin-001",
+        "senderName": "Badriddin Baxtiyorov",
+        "receiverId": "worker-f183490e",
+        "receiverName": "Javohir Imomaliyev",
+        "message": "nmaga kamomat chiqyabdi",
+        "timestamp": "2025-04-26T23:31:17.413Z",
+        "read": false
       }
     ],
-    "lastUpdated": "2025-04-26T23:27:55.981Z"
+    "lastUpdated": "2025-04-26T23:31:17.417Z"
   }
 ]
