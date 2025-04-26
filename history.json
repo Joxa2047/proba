@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "576c16c5-f3e7-4073-9d7f-be97528fd7f4",
+    "timestamp": "2025-04-26T23:35:08.011Z",
+    "workerId": "worker-001",
+    "workerName": "Ishchi Ishchiyev",
+    "productId": "prod-a6b69495",
+    "productName": "Car play 8/128",
+    "action": "update",
+    "quantity": 1,
+    "previousQuantity": 3,
+    "newQuantity": 4,
+    "comment": "Mahsulot miqdori oshirildi"
+  }
+]
