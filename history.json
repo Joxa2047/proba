@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "hist-886",
+    "workerId": "worker-001",
+    "workerName": "Ishchi Ishchiyev",
+    "productId": "prod-944",
+    "productName": "Car play 8/128",
+    "action": "add",
+    "quantity": 5,
+    "previousQuantity": 0,
+    "newQuantity": 5,
+    "comment": "Yangi mahsulot qo'shildi",
+    "timestamp": "2025-04-26T20:56:17.093Z"
+  }
+]
