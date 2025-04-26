@@ -22,5 +22,13 @@
     "createdAt": "2025-04-26T22:34:03.021Z",
     "phone": "+998998464122",
     "email": ""
+  },
+  {
+    "id": "worker-f183490e",
+    "name": "Administrator",
+    "username": "Joxa",
+    "password": "2024",
+    "role": "admin",
+    "createdAt": "2025-04-26T23:50:26.979Z"
   }
 ]
