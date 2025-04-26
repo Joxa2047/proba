@@ -11,5 +11,16 @@
     "name": "Javohir",
     "role": "worker",
     "createdAt": "2025-04-26T19:52:10.059Z"
+  },
+  {
+    "userId": "admin-001",
+    "username": "admin",
+    "name": "Imomaliyev Javohir",
+    "role": "admin",
+    "notifications": {
+      "smsNotifications": false,
+      "telegramNotifications": true,
+      "dailyReport": true
+    }
   }
 ]
