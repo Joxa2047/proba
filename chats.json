@@ -5,7 +5,18 @@
       "admin-001",
       "worker-f183490e"
     ],
-    "messages": [],
-    "lastUpdated": "2025-04-26T22:26:56.396Z"
+    "messages": [
+      {
+        "id": "898b102e-c7aa-487b-b473-92c911b4253f",
+        "senderId": "admin-001",
+        "senderName": "Unknown User",
+        "receiverId": "worker-f183490e",
+        "receiverName": "Javohir Imomaliyev",
+        "message": "Jovo nma gap",
+        "timestamp": "2025-04-26T22:27:10.577Z",
+        "read": false
+      }
+    ],
+    "lastUpdated": "2025-04-26T22:27:10.586Z"
   }
 ]
