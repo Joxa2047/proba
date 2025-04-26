@@ -42,13 +42,15 @@
     {
       "userId": "worker-f183490e",
       "username": "Joxa",
-      "name": "Administrator",
+      "name": "Javohir Imomaliyev",
       "role": "admin",
       "notifications": {
         "smsNotifications": false,
         "telegramNotifications": true,
         "dailyReport": true
-      }
+      },
+      "phone": "+998888466800",
+      "email": ""
     }
   ],
   "workers": [
