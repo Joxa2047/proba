@@ -35,8 +35,18 @@
         "message": "nmag",
         "timestamp": "2025-04-26T23:44:30.310Z",
         "read": true
+      },
+      {
+        "id": "00ea5229-7aac-42aa-b6e8-99aac11c73ea",
+        "senderId": "admin-001",
+        "senderName": "Badriddin Baxtiyorov",
+        "receiverId": "admin-001",
+        "receiverName": "Badriddin Baxtiyorov",
+        "message": "sdfgr",
+        "timestamp": "2025-04-26T23:45:54.594Z",
+        "read": false
       }
     ],
-    "lastUpdated": "2025-04-26T23:44:30.314Z"
+    "lastUpdated": "2025-04-26T23:45:54.596Z"
   }
 ]
