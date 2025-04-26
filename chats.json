@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "chat-6b972634",
+    "participants": [
+      "admin-001",
+      "worker-f183490e"
+    ],
+    "messages": [],
+    "lastUpdated": "2025-04-26T22:26:56.396Z"
+  }
+]
