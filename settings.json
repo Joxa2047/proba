@@ -6,11 +6,11 @@
       "name": "Javohir Imomaliyev",
       "role": "admin",
       "notifications": {
-        "smsNotifications": false,
+        "smsNotifications": true,
         "telegramNotifications": true,
         "dailyReport": true
       },
-      "updatedAt": "2025-04-26T20:47:12.149Z"
+      "updatedAt": "2025-04-26T20:47:19.093Z"
     }
   ]
 }
