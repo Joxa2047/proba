@@ -1,0 +1,10 @@
+[
+  {
+    "worker_id": "worker01",
+    "product_id": "12345",
+    "action": "minus",
+    "quantity": 5,
+    "comment": "Mijoz uchun berildi",
+    "timestamp": "2025-04-26T12:00:00"
+  }
+]
