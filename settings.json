@@ -2,7 +2,7 @@
   "users": [
     {
       "userId": "admin-001",
-      "username": "N",
+      "username": "Badr",
       "name": "Badriddin Baxtiyorov",
       "role": "admin",
       "notifications": {
@@ -10,7 +10,7 @@
         "telegramNotifications": true,
         "dailyReport": true
       },
-      "updatedAt": "2025-04-26T20:54:52.518Z"
+      "updatedAt": "2025-04-26T20:55:16.242Z"
     },
     {
       "userId": "worker-001",
