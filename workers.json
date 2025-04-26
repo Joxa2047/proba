@@ -3,5 +3,13 @@
     "id": "worker01",
     "username": "ali",
     "password": "hashed_parol"
+  },
+  {
+    "id": "worker-432",
+    "username": "Joxa",
+    "password": "2047",
+    "name": "Javohir",
+    "role": "worker",
+    "createdAt": "2025-04-26T19:52:10.059Z"
   }
 ]
