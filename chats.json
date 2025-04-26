@@ -78,5 +78,14 @@
       }
     ],
     "lastUpdated": "2025-04-26T23:41:28.613Z"
+  },
+  {
+    "id": "chat-c635aa39",
+    "participants": [
+      "worker-001",
+      "admin-001"
+    ],
+    "messages": [],
+    "lastUpdated": "2025-04-26T23:42:28.293Z"
   }
 ]
