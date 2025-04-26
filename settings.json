@@ -38,6 +38,17 @@
         "telegramNotifications": true,
         "dailyReport": true
       }
+    },
+    {
+      "userId": "worker-f183490e",
+      "username": "Joxa",
+      "name": "Administrator",
+      "role": "admin",
+      "notifications": {
+        "smsNotifications": false,
+        "telegramNotifications": true,
+        "dailyReport": true
+      }
     }
   ],
   "workers": [
