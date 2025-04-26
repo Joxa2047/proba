@@ -44,7 +44,7 @@
         "receiverName": "Javohir Imomaliyev",
         "message": "haa men",
         "timestamp": "2025-04-26T23:27:55.975Z",
-        "read": false
+        "read": true
       },
       {
         "id": "fd72bea2-202c-4552-8495-416c4d58d204",
@@ -54,7 +54,7 @@
         "receiverName": "Javohir Imomaliyev",
         "message": "nmaga kamomat chiqyabdi",
         "timestamp": "2025-04-26T23:31:17.413Z",
-        "read": false
+        "read": true
       }
     ],
     "lastUpdated": "2025-04-26T23:31:17.417Z"
