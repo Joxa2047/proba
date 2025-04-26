@@ -5,7 +5,18 @@
       "worker-f183490e",
       "worker-f183490e"
     ],
-    "messages": [],
-    "lastUpdated": "2025-04-26T23:44:03.675Z"
+    "messages": [
+      {
+        "id": "8cc9602d-453b-4e4a-be12-5c31910ba612",
+        "senderId": "worker-f183490e",
+        "senderName": "Javohir Imomaliyev",
+        "receiverId": "worker-f183490e",
+        "receiverName": "Javohir Imomaliyev",
+        "message": "bhjkl;",
+        "timestamp": "2025-04-26T23:44:07.961Z",
+        "read": false
+      }
+    ],
+    "lastUpdated": "2025-04-26T23:44:07.967Z"
   }
 ]
