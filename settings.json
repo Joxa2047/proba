@@ -52,6 +52,17 @@
         "telegramNotifications": true,
         "dailyReport": true
       }
+    },
+    {
+      "userId": "worker-001",
+      "username": "worker",
+      "name": "Ishchi Ishchiyev",
+      "role": "worker",
+      "notifications": {
+        "smsNotifications": false,
+        "telegramNotifications": false,
+        "dailyReport": true
+      }
     }
   ]
 }
