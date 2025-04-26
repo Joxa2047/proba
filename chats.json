@@ -14,7 +14,7 @@
         "receiverName": "Javohir Imomaliyev",
         "message": "Jovo nma gap",
         "timestamp": "2025-04-26T22:27:10.577Z",
-        "read": false
+        "read": true
       },
       {
         "id": "1eac7999-8612-40b5-b808-4ebe2bf2a7d2",
@@ -24,7 +24,7 @@
         "receiverName": "Javohir Imomaliyev",
         "message": "jovooo",
         "timestamp": "2025-04-26T23:26:54.699Z",
-        "read": false
+        "read": true
       }
     ],
     "lastUpdated": "2025-04-26T23:26:54.705Z"
