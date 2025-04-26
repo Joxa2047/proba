@@ -55,8 +55,18 @@
         "message": "nmaga kamomat chiqyabdi",
         "timestamp": "2025-04-26T23:31:17.413Z",
         "read": true
+      },
+      {
+        "id": "cb637e5e-480a-4d80-a09d-6a8ccac0caaf",
+        "senderId": "worker-f183490e",
+        "senderName": "Javohir Imomaliyev",
+        "receiverId": "admin-001",
+        "receiverName": "Badriddin Baxtiyorov",
+        "message": "badr kamomat mendan emas",
+        "timestamp": "2025-04-26T23:31:50.972Z",
+        "read": false
       }
     ],
-    "lastUpdated": "2025-04-26T23:31:17.417Z"
+    "lastUpdated": "2025-04-26T23:31:50.975Z"
   }
 ]
