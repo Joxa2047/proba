@@ -40,5 +40,18 @@
       }
     }
   ],
-  "workers": []
+  "workers": [
+    {
+      "userId": "worker-f183490e",
+      "username": "Joxa",
+      "name": "Javohir Imomaliyev",
+      "role": "worker",
+      "phone": "+998888466800",
+      "notifications": {
+        "smsNotifications": false,
+        "telegramNotifications": true,
+        "dailyReport": true
+      }
+    }
+  ]
 }
