@@ -11,5 +11,18 @@
     "newQuantity": 5,
     "comment": "Yangi mahsulot qo'shildi",
     "timestamp": "2025-04-26T20:56:17.093Z"
+  },
+  {
+    "id": "hist-524",
+    "workerId": "worker-001",
+    "workerName": "Ishchi Ishchiyev",
+    "productId": "prod-664",
+    "productName": "Car play 8/128",
+    "action": "remove",
+    "quantity": 5,
+    "previousQuantity": 5,
+    "newQuantity": 0,
+    "comment": "Buvizi amiga",
+    "timestamp": "2025-04-26T20:56:37.914Z"
   }
 ]
