@@ -25,7 +25,18 @@
       "worker-f183490e",
       "admin-001"
     ],
-    "messages": [],
-    "lastUpdated": "2025-04-26T23:44:22.537Z"
+    "messages": [
+      {
+        "id": "58afd6b0-db1f-4234-9b66-a25e375e30f9",
+        "senderId": "worker-f183490e",
+        "senderName": "Javohir Imomaliyev",
+        "receiverId": "admin-001",
+        "receiverName": "Badriddin Baxtiyorov",
+        "message": "nmag",
+        "timestamp": "2025-04-26T23:44:30.310Z",
+        "read": false
+      }
+    ],
+    "lastUpdated": "2025-04-26T23:44:30.314Z"
   }
 ]
