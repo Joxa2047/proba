@@ -11,5 +11,18 @@
     "previousQuantity": 3,
     "newQuantity": 4,
     "comment": "Mahsulot miqdori oshirildi"
+  },
+  {
+    "id": "c2403e63-9f64-4a7a-96c4-3ba62ddc342f",
+    "timestamp": "2025-04-26T23:35:19.756Z",
+    "workerId": "worker-001",
+    "workerName": "Ishchi Ishchiyev",
+    "productId": "prod-a6b69495",
+    "productName": "Car play 8/128",
+    "action": "remove",
+    "quantity": 1,
+    "previousQuantity": 4,
+    "newQuantity": 3,
+    "comment": "miq"
   }
 ]
