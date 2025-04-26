@@ -7,14 +7,5 @@
     "location": "Joxa uyida",
     "createdAt": "2025-04-26T19:50:52.798Z",
     "updatedAt": "2025-04-26T20:07:35.326Z"
-  },
-  {
-    "id": "prod-721",
-    "name": "habr",
-    "quantity": 1,
-    "price": 1,
-    "location": "Joxa uyida",
-    "createdAt": "2025-04-26T20:23:25.147Z",
-    "updatedAt": "2025-04-26T20:23:25.147Z"
   }
 ]
