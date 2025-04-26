@@ -2,11 +2,11 @@
   {
     "id": "prod-664",
     "name": "Car play 8/128",
-    "quantity": 5,
+    "quantity": 0,
     "price": 1250000,
     "location": "Joxa uyida",
     "createdAt": "2025-04-26T20:54:20.606Z",
-    "updatedAt": "2025-04-26T20:54:20.624Z"
+    "updatedAt": "2025-04-26T20:56:37.357Z"
   },
   {
     "id": "prod-944",
