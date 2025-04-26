@@ -1,101 +1,11 @@
 [
   {
-    "id": "chat-6b972634",
+    "id": "chat-16d61269",
     "participants": [
-      "admin-001",
+      "worker-f183490e",
       "worker-f183490e"
     ],
-    "messages": [
-      {
-        "id": "898b102e-c7aa-487b-b473-92c911b4253f",
-        "senderId": "admin-001",
-        "senderName": "Unknown User",
-        "receiverId": "worker-f183490e",
-        "receiverName": "Javohir Imomaliyev",
-        "message": "Jovo nma gap",
-        "timestamp": "2025-04-26T22:27:10.577Z",
-        "read": true
-      },
-      {
-        "id": "1eac7999-8612-40b5-b808-4ebe2bf2a7d2",
-        "senderId": "admin-001",
-        "senderName": "Administrator",
-        "receiverId": "worker-f183490e",
-        "receiverName": "Javohir Imomaliyev",
-        "message": "jovooo",
-        "timestamp": "2025-04-26T23:26:54.699Z",
-        "read": true
-      },
-      {
-        "id": "b02f3331-6aec-4049-93ac-46ce4b5f141c",
-        "senderId": "worker-f183490e",
-        "senderName": "Javohir Imomaliyev",
-        "receiverId": "admin-001",
-        "receiverName": "Administrator",
-        "message": "badr sizmi",
-        "timestamp": "2025-04-26T23:27:34.298Z",
-        "read": true
-      },
-      {
-        "id": "b0582419-518c-4545-a665-f4e431e4cc6f",
-        "senderId": "admin-001",
-        "senderName": "Administrator",
-        "receiverId": "worker-f183490e",
-        "receiverName": "Javohir Imomaliyev",
-        "message": "haa men",
-        "timestamp": "2025-04-26T23:27:55.975Z",
-        "read": true
-      },
-      {
-        "id": "fd72bea2-202c-4552-8495-416c4d58d204",
-        "senderId": "admin-001",
-        "senderName": "Badriddin Baxtiyorov",
-        "receiverId": "worker-f183490e",
-        "receiverName": "Javohir Imomaliyev",
-        "message": "nmaga kamomat chiqyabdi",
-        "timestamp": "2025-04-26T23:31:17.413Z",
-        "read": true
-      },
-      {
-        "id": "cb637e5e-480a-4d80-a09d-6a8ccac0caaf",
-        "senderId": "worker-f183490e",
-        "senderName": "Javohir Imomaliyev",
-        "receiverId": "admin-001",
-        "receiverName": "Badriddin Baxtiyorov",
-        "message": "badr kamomat mendan emas",
-        "timestamp": "2025-04-26T23:31:50.972Z",
-        "read": true
-      },
-      {
-        "id": "3eacc23b-381f-42c4-b987-a87b49171ca9",
-        "senderId": "admin-001",
-        "senderName": "Badriddin Baxtiyorov",
-        "receiverId": "admin-001",
-        "receiverName": "Badriddin Baxtiyorov",
-        "message": "amizzi yeng",
-        "timestamp": "2025-04-26T23:41:28.607Z",
-        "read": true
-      },
-      {
-        "id": "506ea3cf-23bd-4c61-839f-b6e300082f9d",
-        "senderId": "worker-f183490e",
-        "senderName": "Javohir Imomaliyev",
-        "receiverId": "worker-f183490e",
-        "receiverName": "Javohir Imomaliyev",
-        "message": "kim endi",
-        "timestamp": "2025-04-26T23:44:02.491Z",
-        "read": false
-      }
-    ],
-    "lastUpdated": "2025-04-26T23:44:02.496Z"
-  },
-  {
-    "id": "chat-c635aa39",
-    "participants": [
-      "worker-001",
-      "admin-001"
-    ],
     "messages": [],
-    "lastUpdated": "2025-04-26T23:42:28.293Z"
+    "lastUpdated": "2025-04-26T23:44:03.675Z"
   }
 ]
