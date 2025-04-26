@@ -3,5 +3,14 @@
     "id": "worker01",
     "username": "ali",
     "password": "hashed_parol"
+  },
+  {
+    "id": "worker-f183490e",
+    "createdAt": "2025-04-26T22:13:44.389Z",
+    "username": "Joxa",
+    "password": "2047",
+    "name": "Javohir Imomaliyev",
+    "role": "worker",
+    "phone": "+998888466800"
   }
 ]
