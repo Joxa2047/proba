@@ -1,12 +1,5 @@
 [
   {
-    "id": "12345",
-    "name": "Temir quvur",
-    "quantity": 100,
-    "price": 25000,
-    "location": "1-qavat, 2-raf"
-  },
-  {
     "id": "prod-847",
     "name": "Car play 8/128",
     "quantity": 4,
