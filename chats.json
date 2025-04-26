@@ -35,8 +35,18 @@
         "message": "badr sizmi",
         "timestamp": "2025-04-26T23:27:34.298Z",
         "read": true
+      },
+      {
+        "id": "b0582419-518c-4545-a665-f4e431e4cc6f",
+        "senderId": "admin-001",
+        "senderName": "Administrator",
+        "receiverId": "worker-f183490e",
+        "receiverName": "Javohir Imomaliyev",
+        "message": "haa men",
+        "timestamp": "2025-04-26T23:27:55.975Z",
+        "read": false
       }
     ],
-    "lastUpdated": "2025-04-26T23:27:34.301Z"
+    "lastUpdated": "2025-04-26T23:27:55.981Z"
   }
 ]
