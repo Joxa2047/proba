@@ -65,8 +65,18 @@
         "message": "badr kamomat mendan emas",
         "timestamp": "2025-04-26T23:31:50.972Z",
         "read": true
+      },
+      {
+        "id": "3eacc23b-381f-42c4-b987-a87b49171ca9",
+        "senderId": "admin-001",
+        "senderName": "Badriddin Baxtiyorov",
+        "receiverId": "admin-001",
+        "receiverName": "Badriddin Baxtiyorov",
+        "message": "amizzi yeng",
+        "timestamp": "2025-04-26T23:41:28.607Z",
+        "read": false
       }
     ],
-    "lastUpdated": "2025-04-26T23:31:50.975Z"
+    "lastUpdated": "2025-04-26T23:41:28.613Z"
   }
 ]
