@@ -14,14 +14,17 @@
   },
   {
     "userId": "admin-001",
-    "username": "admin",
-    "name": "Imomaliyev Javohir",
-    "role": "admin",
+    "username": "Joxa",
+    "name": "Javohir",
+    "role": "worker",
     "notifications": {
       "smsNotifications": false,
       "telegramNotifications": true,
       "dailyReport": true
-    }
+    },
+    "id": "worker-432",
+    "password": "2047",
+    "createdAt": "2025-04-26T19:52:10.059Z"
   },
   {
     "userId": "admin-001",
