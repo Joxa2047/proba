@@ -15,10 +15,12 @@
   },
   {
     "id": "admin-001",
-    "name": "Administrator",
+    "name": "Badriddin Baxtiyorov",
     "username": "admin",
     "password": "admin",
     "role": "admin",
-    "createdAt": "2025-04-26T22:34:03.021Z"
+    "createdAt": "2025-04-26T22:34:03.021Z",
+    "phone": "+998998464122",
+    "email": ""
   }
 ]
