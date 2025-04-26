@@ -18,11 +18,11 @@
       "name": "Javohir Imomaliyev",
       "role": "worker",
       "notifications": {
-        "smsNotifications": false,
+        "smsNotifications": true,
         "telegramNotifications": true,
         "dailyReport": true
       },
-      "updatedAt": "2025-04-26T20:57:06.876Z"
+      "updatedAt": "2025-04-26T20:57:14.872Z"
     }
   ]
 }
