@@ -34,7 +34,7 @@
         "receiverName": "Administrator",
         "message": "badr sizmi",
         "timestamp": "2025-04-26T23:27:34.298Z",
-        "read": false
+        "read": true
       }
     ],
     "lastUpdated": "2025-04-26T23:27:34.301Z"
