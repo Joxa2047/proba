@@ -75,9 +75,19 @@
         "message": "amizzi yeng",
         "timestamp": "2025-04-26T23:41:28.607Z",
         "read": true
+      },
+      {
+        "id": "506ea3cf-23bd-4c61-839f-b6e300082f9d",
+        "senderId": "worker-f183490e",
+        "senderName": "Javohir Imomaliyev",
+        "receiverId": "worker-f183490e",
+        "receiverName": "Javohir Imomaliyev",
+        "message": "kim endi",
+        "timestamp": "2025-04-26T23:44:02.491Z",
+        "read": false
       }
     ],
-    "lastUpdated": "2025-04-26T23:41:28.613Z"
+    "lastUpdated": "2025-04-26T23:44:02.496Z"
   },
   {
     "id": "chat-c635aa39",
