@@ -33,5 +33,12 @@
     "quantity": 1,
     "price": 2000000,
     "location": "Joxa uyi"
+  },
+  {
+    "id": "prod-2fab97c1",
+    "name": "AL Zohoor ",
+    "quantity": 1,
+    "price": 170000,
+    "location": "Joxa uyida"
   }
 ]
