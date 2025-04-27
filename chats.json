@@ -54,7 +54,7 @@
         "receiverName": "Badriddin Baxtiyorov",
         "message": "hj",
         "timestamp": "2025-04-26T23:49:46.386Z",
-        "read": false
+        "read": true
       },
       {
         "id": "0b0a2c04-7f13-4776-95dd-b988d38f7135",
@@ -64,7 +64,7 @@
         "receiverName": "Badriddin Baxtiyorov",
         "message": "aqsdfghjkl;",
         "timestamp": "2025-04-26T23:58:17.965Z",
-        "read": false
+        "read": true
       }
     ],
     "lastUpdated": "2025-04-26T23:58:17.987Z"
