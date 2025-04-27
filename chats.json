@@ -65,8 +65,18 @@
         "message": "aqsdfghjkl;",
         "timestamp": "2025-04-26T23:58:17.965Z",
         "read": true
+      },
+      {
+        "id": "b48cd527-7be4-4824-8fa0-9bba7c73168c",
+        "senderId": "admin-001",
+        "senderName": "Badriddin Baxtiyorov",
+        "receiverId": "worker-f183490e",
+        "receiverName": "Javohir Imomaliyev",
+        "message": "io",
+        "timestamp": "2025-04-27T00:05:48.682Z",
+        "read": false
       }
     ],
-    "lastUpdated": "2025-04-26T23:58:17.987Z"
+    "lastUpdated": "2025-04-27T00:05:48.687Z"
   }
 ]
