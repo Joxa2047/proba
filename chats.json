@@ -84,7 +84,7 @@
         "receiverName": "Javohir Imomaliyev",
         "message": "kkkkkkkkkkkkkk",
         "timestamp": "2025-04-27T00:05:59.542Z",
-        "read": false
+        "read": true
       },
       {
         "id": "c5c25555-3e20-40f7-aab3-60ab85c216ad",
@@ -94,7 +94,7 @@
         "receiverName": "Javohir Imomaliyev",
         "message": "ghijokpjh",
         "timestamp": "2025-04-27T00:06:04.350Z",
-        "read": false
+        "read": true
       }
     ],
     "lastUpdated": "2025-04-27T00:06:04.355Z"
