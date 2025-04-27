@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "prod-61e4e02a",
+    "name": "Automative switch",
+    "quantity": 1,
+    "price": 30000,
+    "location": "Joxa uyi"
+  }
+]
