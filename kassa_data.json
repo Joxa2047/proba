@@ -59,7 +59,14 @@
             "flow_type": "Chiqim",
             "description": "chopildiz jovo",
             "date": "2025-04-12 18:17:39"
+        },
+        {
+            "user": "Javohir",
+            "amount": 12000000.0,
+            "flow_type": "Kirim",
+            "description": "buiodfgjfremokl[fepwrokgjnfveokwornjgbkto4",
+            "date": "2025-05-01 09:56:03"
         }
     ],
-    "balance": 22000.0
+    "balance": 12022000.0
 }
