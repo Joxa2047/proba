@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "cce9fc6c-a0b0-44eb-822d-2fbfd16d315e",
+    "timestamp": "2025-05-06T06:34:45.694Z",
+    "workerId": "worker-f183490e",
+    "workerName": "Javohir Imomaliyev",
+    "productId": "prod-18118861",
+    "productName": "Car play 4/64",
+    "action": "remove",
+    "quantity": 1,
+    "previousQuantity": 2,
+    "newQuantity": 1,
+    "comment": "buvizi amiga ketdi\n"
+  }
+]
