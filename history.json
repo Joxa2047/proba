@@ -11,5 +11,18 @@
     "previousQuantity": 2,
     "newQuantity": 1,
     "comment": "buvizi amiga ketdi\n"
+  },
+  {
+    "id": "60f663e4-19b5-40af-9d53-a6e037a39263",
+    "timestamp": "2025-05-06T06:35:01.723Z",
+    "workerId": "worker-f183490e",
+    "workerName": "Javohir Imomaliyev",
+    "productId": "prod-2fab97c1",
+    "productName": "AL Zohoor ",
+    "action": "remove",
+    "quantity": 1,
+    "previousQuantity": 1,
+    "newQuantity": 0,
+    "comment": "bhjkl"
   }
 ]
