@@ -34,7 +34,7 @@
       "phone": "+998998464122",
       "email": "",
       "notifications": {
-        "smsNotifications": false,
+        "smsNotifications": true,
         "telegramNotifications": true,
         "dailyReport": true
       }
