@@ -12,12 +12,5 @@
     "quantity": 1,
     "price": 1000000,
     "location": "Joxa uyida"
-  },
-  {
-    "id": "prod-831a05ab",
-    "name": "Led h4 mini led (high power)",
-    "quantity": 1,
-    "price": 2000000,
-    "location": "Joxa uyi"
   }
 ]
