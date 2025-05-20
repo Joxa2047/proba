@@ -31,5 +31,13 @@
     "password": "2024",
     "role": "admin",
     "createdAt": "2025-04-26T23:50:26.979Z"
+  },
+  {
+    "id": "worker-523",
+    "username": "adminaa",
+    "password": "5050",
+    "name": "Salim Donaboyev",
+    "role": "worker",
+    "createdAt": "2025-05-20T04:43:27.081Z"
   }
 ]
