@@ -23,59 +23,18 @@
         "dailyReport": true
       },
       "updatedAt": "2025-04-26T20:57:14.872Z"
-    }
-  ],
-  "admins": [
-    {
-      "userId": "admin-001",
-      "username": "admin",
-      "name": "Badriddin Baxtiyorov",
-      "role": "admin",
-      "phone": "+998998464122",
-      "email": "",
-      "notifications": {
-        "smsNotifications": true,
-        "telegramNotifications": true,
-        "dailyReport": true
-      }
     },
     {
-      "userId": "worker-f183490e",
-      "username": "Joxa",
-      "name": "Javohir Imomaliyev",
-      "role": "admin",
+      "userId": "worker-523",
+      "username": "adminaa",
+      "name": "Salim Donaboyev",
+      "role": "worker",
       "notifications": {
         "smsNotifications": false,
         "telegramNotifications": true,
         "dailyReport": true
       },
-      "phone": "+998888466800",
-      "email": ""
-    }
-  ],
-  "workers": [
-    {
-      "userId": "worker-f183490e",
-      "username": "Joxa",
-      "name": "Javohir Imomaliyev",
-      "role": "worker",
-      "phone": "+998888466800",
-      "notifications": {
-        "smsNotifications": false,
-        "telegramNotifications": true,
-        "dailyReport": true
-      }
-    },
-    {
-      "userId": "worker-001",
-      "username": "worker",
-      "name": "Ishchi Ishchiyev",
-      "role": "worker",
-      "notifications": {
-        "smsNotifications": false,
-        "telegramNotifications": false,
-        "dailyReport": true
-      }
+      "updatedAt": "2025-05-20T04:43:27.606Z"
     }
   ]
 }
