@@ -5,16 +5,6 @@
     "password": "hashed_parol"
   },
   {
-    "id": "worker-f183490e",
-    "createdAt": "2025-04-26T22:13:44.389Z",
-    "username": "Joxa",
-    "password": "5050",
-    "name": "Javohir Imomaliyev",
-    "role": "worker",
-    "phone": "+998888466800",
-    "email": ""
-  },
-  {
     "id": "admin-001",
     "name": "Badriddin Baxtiyorov",
     "username": "admin",
@@ -23,13 +13,5 @@
     "createdAt": "2025-04-26T22:34:03.021Z",
     "phone": "+998998464122",
     "email": ""
-  },
-  {
-    "id": "worker-f183490e",
-    "name": "Administrator",
-    "username": "Joxa",
-    "password": "2024",
-    "role": "admin",
-    "createdAt": "2025-04-26T23:50:26.979Z"
   }
 ]
