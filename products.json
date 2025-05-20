@@ -11,5 +11,18 @@
     "addedByName": "Admin Adminov",
     "createdAt": "2025-05-20T05:32:49.207Z",
     "updatedAt": "2025-05-20T05:32:49.207Z"
+  },
+  {
+    "id": "prod-178",
+    "name": "Mix 100x",
+    "quantity": 250,
+    "price": 12000,
+    "location": "Denov sklad",
+    "unit": "kg",
+    "categoryId": "cat-888",
+    "addedBy": "admin-001",
+    "addedByName": "Admin Adminov",
+    "createdAt": "2025-05-20T09:33:53.546Z",
+    "updatedAt": "2025-05-20T09:33:53.546Z"
   }
 ]
