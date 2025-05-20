@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "hist-885",
+    "workerId": "admin-001",
+    "workerName": "Admin Adminov",
+    "productId": "prod-212",
+    "productName": "Joxa",
+    "action": "add",
+    "quantity": 100,
+    "previousQuantity": 0,
+    "newQuantity": 100,
+    "comment": "Yangi mahsulot qo'shildi",
+    "unit": "kg",
+    "timestamp": "2025-05-20T05:32:50.224Z"
+  }
+]
