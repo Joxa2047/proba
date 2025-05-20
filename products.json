@@ -16,10 +16,10 @@
   {
     "id": "prod-717",
     "name": "Kartoshka",
-    "quantity": 10,
+    "quantity": 5,
     "price": 120000,
     "location": "Surxondaryo, Uzbekistan",
     "createdAt": "2025-05-20T04:45:23.612Z",
-    "updatedAt": "2025-05-20T04:45:23.612Z"
+    "updatedAt": "2025-05-20T04:59:53.541Z"
   }
 ]
