@@ -1,18 +1,5 @@
 [
   {
-    "id": "prod-212",
-    "name": "Joxa",
-    "quantity": 100,
-    "price": 120000,
-    "location": "Surxondaryo, Uzbekistan",
-    "unit": "kg",
-    "categoryId": "cat-061",
-    "addedBy": "admin-001",
-    "addedByName": "Admin Adminov",
-    "createdAt": "2025-05-20T05:32:49.207Z",
-    "updatedAt": "2025-05-20T05:32:49.207Z"
-  },
-  {
     "id": "prod-178",
     "name": "Mix 100x",
     "quantity": 250,
