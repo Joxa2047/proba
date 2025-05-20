@@ -12,5 +12,19 @@
     "comment": "Yangi mahsulot qo'shildi",
     "unit": "kg",
     "timestamp": "2025-05-20T05:32:50.224Z"
+  },
+  {
+    "id": "hist-842",
+    "workerId": "admin-001",
+    "workerName": "Admin Adminov",
+    "productId": "prod-178",
+    "productName": "Mix 100x",
+    "action": "add",
+    "quantity": 250,
+    "previousQuantity": 0,
+    "newQuantity": 250,
+    "comment": "Yangi mahsulot qo'shildi",
+    "unit": "kg",
+    "timestamp": "2025-05-20T09:33:54.107Z"
   }
 ]
