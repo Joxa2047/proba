@@ -12,5 +12,14 @@
     "quantity": 1,
     "price": 1000000,
     "location": "Joxa uyida"
+  },
+  {
+    "id": "prod-717",
+    "name": "Kartoshka",
+    "quantity": 10,
+    "price": 120000,
+    "location": "Surxondaryo, Uzbekistan",
+    "createdAt": "2025-05-20T04:45:23.612Z",
+    "updatedAt": "2025-05-20T04:45:23.612Z"
   }
 ]
