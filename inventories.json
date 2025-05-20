@@ -44,9 +44,11 @@
         "productName": "Joxa",
         "unit": "kg",
         "systemQuantity": 100,
-        "actualQuantity": 0,
-        "difference": 0,
-        "status": "pending"
+        "actualQuantity": 8,
+        "difference": 92,
+        "status": "pending",
+        "lastModifiedBy": "admin-001",
+        "lastModifiedByName": "Admin Adminov"
       },
       {
         "id": "item-150",
@@ -61,6 +63,6 @@
     ],
     "comment": " nm,./.\n\n",
     "createdAt": "2025-05-20T14:49:51.836Z",
-    "updatedAt": "2025-05-20T14:49:51.836Z"
+    "updatedAt": "2025-05-20T14:50:11.223Z"
   }
 ]
