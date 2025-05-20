@@ -24,5 +24,18 @@
     "previousQuantity": 1,
     "newQuantity": 0,
     "comment": "bhjkl"
+  },
+  {
+    "id": "hist-924",
+    "workerId": "worker-001",
+    "workerName": "Ishchi Ishchiyev",
+    "productId": "prod-717",
+    "productName": "Kartoshka",
+    "action": "remove",
+    "quantity": 5,
+    "previousQuantity": 10,
+    "newQuantity": 5,
+    "comment": "bilmiman\n",
+    "timestamp": "2025-05-20T04:59:54.533Z"
   }
 ]
