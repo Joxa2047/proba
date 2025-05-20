@@ -56,13 +56,15 @@
         "productName": "Mix 100x",
         "unit": "kg",
         "systemQuantity": 250,
-        "actualQuantity": 0,
-        "difference": 0,
-        "status": "pending"
+        "actualQuantity": 5,
+        "difference": 245,
+        "status": "pending",
+        "lastModifiedBy": "admin-001",
+        "lastModifiedByName": "Admin Adminov"
       }
     ],
     "comment": " nm,./.\n\n",
     "createdAt": "2025-05-20T14:49:51.836Z",
-    "updatedAt": "2025-05-20T14:50:11.223Z"
+    "updatedAt": "2025-05-20T14:50:14.657Z"
   }
 ]
