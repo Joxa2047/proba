@@ -23,18 +23,6 @@
         "dailyReport": true
       },
       "updatedAt": "2025-04-26T20:57:14.872Z"
-    },
-    {
-      "userId": "worker-523",
-      "username": "adminaa",
-      "name": "Salim Donaboyev",
-      "role": "worker",
-      "notifications": {
-        "smsNotifications": false,
-        "telegramNotifications": true,
-        "dailyReport": true
-      },
-      "updatedAt": "2025-05-20T04:43:27.606Z"
     }
   ]
 }
