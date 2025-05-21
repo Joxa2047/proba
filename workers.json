@@ -13,5 +13,13 @@
     "createdAt": "2025-04-26T22:34:03.021Z",
     "phone": "+998998464122",
     "email": ""
+  },
+  {
+    "id": "worker-998",
+    "username": "Joxa",
+    "password": "2047",
+    "name": "Javohir",
+    "role": "worker",
+    "createdAt": "2025-05-21T10:49:22.212Z"
   }
 ]
