@@ -3,14 +3,17 @@
     {
       "userId": "admin-001",
       "username": "Badr",
-      "name": "Badriddin Baxtiyorov",
+      "name": "Javohir Imomaliyev",
       "role": "admin",
       "notifications": {
         "smsNotifications": true,
         "telegramNotifications": true,
         "dailyReport": true
       },
-      "updatedAt": "2025-05-20T10:07:19.842Z"
+      "updatedAt": "2025-05-21T12:31:14.509Z",
+      "email": "javohirbek434@gmail.com",
+      "phone": "+998888466800",
+      "address": "Sergeli 7a20B"
     },
     {
       "userId": "worker-001",
