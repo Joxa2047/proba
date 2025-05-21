@@ -23,6 +23,18 @@
         "dailyReport": true
       },
       "updatedAt": "2025-04-26T20:57:14.872Z"
+    },
+    {
+      "userId": "worker-998",
+      "username": "Joxa",
+      "name": "Javohir",
+      "role": "worker",
+      "notifications": {
+        "smsNotifications": false,
+        "telegramNotifications": true,
+        "dailyReport": true
+      },
+      "updatedAt": "2025-05-21T10:49:22.850Z"
     }
   ]
 }
