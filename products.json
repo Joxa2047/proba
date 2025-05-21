@@ -2,7 +2,7 @@
   {
     "id": "prod-178",
     "name": "Mix 100x",
-    "quantity": 250,
+    "quantity": 238,
     "price": 12000,
     "location": "Denov sklad",
     "unit": "kg",
@@ -10,6 +10,6 @@
     "addedBy": "admin-001",
     "addedByName": "Admin Adminov",
     "createdAt": "2025-05-20T09:33:53.546Z",
-    "updatedAt": "2025-05-20T09:33:53.546Z"
+    "updatedAt": "2025-05-21T10:50:15.091Z"
   }
 ]
