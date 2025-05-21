@@ -26,5 +26,20 @@
     "comment": "Yangi mahsulot qo'shildi",
     "unit": "kg",
     "timestamp": "2025-05-20T09:33:54.107Z"
+  },
+  {
+    "id": "hist-555",
+    "workerId": "worker-998",
+    "workerName": "Javohir",
+    "productId": "prod-178",
+    "productName": "Mix 100x",
+    "action": "remove",
+    "quantity": 12,
+    "previousQuantity": 250,
+    "newQuantity": 238,
+    "comment": "None",
+    "destination": "Tojmahal ustalari ",
+    "unit": "kg",
+    "timestamp": "2025-05-21T10:50:15.690Z"
   }
 ]
