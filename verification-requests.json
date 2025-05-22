@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "userId": "admin1",
+    "operation": "Mahsulot o'chirish",
+    "code": "400402",
+    "id": "1747887646851",
+    "timestamp": "2025-05-22T04:20:46.851Z",
+    "expires": "2025-05-22T04:30:46.851Z",
+    "used": false
+  }
+]
