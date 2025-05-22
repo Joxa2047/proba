@@ -1,5 +1,4 @@
 {
-  
   "users": [
     {
       "userId": "admin-001",
@@ -19,14 +18,17 @@
     {
       "userId": "worker-001",
       "username": "Joxa",
-      "name": "Javohir Imomaliyev",
+      "name": "Joxabek",
       "role": "worker",
       "notifications": {
         "smsNotifications": true,
         "telegramNotifications": true,
         "dailyReport": true
       },
-      "updatedAt": "2025-04-26T20:57:14.872Z"
+      "updatedAt": "2025-05-22T05:37:05.624Z",
+      "email": "",
+      "phone": "",
+      "address": ""
     },
     {
       "userId": "worker-998",
