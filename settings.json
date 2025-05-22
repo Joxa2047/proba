@@ -2,15 +2,6 @@
   
   "users": [
     {
-  "userId": "superadmin-001",
-  "username": "SuperBoss",
-  "name": "Gulchiroy",
-  "role": "superadmin",
-  "email": "superadmin@example.com",
-  "phone": "+998991112233",
-  "updatedAt": "2025-05-21T13:00:00.000Z"
-    }
-    {
       "userId": "admin-001",
       "username": "Badr",
       "name": "Javohir Imomaliyev",
