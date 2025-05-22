@@ -25,10 +25,10 @@
         "telegramNotifications": true,
         "dailyReport": true
       },
-      "updatedAt": "2025-05-22T05:37:05.624Z",
-      "email": "",
-      "phone": "",
-      "address": ""
+      "updatedAt": "2025-05-22T05:37:24.914Z",
+      "email": "admin@example.com",
+      "phone": "+998888466800",
+      "address": "cfghjk"
     },
     {
       "userId": "worker-998",
