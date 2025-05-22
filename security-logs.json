@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "userId": "admin1",
+    "action": "Requested verification for: Mahsulot o'chirish",
+    "status": "success",
+    "id": "1747887648814",
+    "timestamp": "2025-05-22T04:20:48.815Z"
+  }
+]
